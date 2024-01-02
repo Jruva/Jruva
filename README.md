@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Jruva
+- 👀 I’m a mechanical engineer using Javascript to make my job as an application Engineer smoother. 
